@@ -4,6 +4,8 @@
 
 This file will become your README and also the index of your documentation.
 
+https://diogomafra.github.io/testnote/
+
 ## Install
 
 `pip install your_project_name`
