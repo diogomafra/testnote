@@ -7,7 +7,7 @@ __all__ = ['get_months', 'get_names']
 def get_months():
     """Returns all months of the year"""
 
-    return list(range(1, 12))
+    return list(range(1, 30))
 
 # Cell
 def get_names():
