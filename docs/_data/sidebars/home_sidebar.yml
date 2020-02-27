@@ -13,7 +13,10 @@ entries:
       title: Core module
       url: /core
     - output: web,pdf
-      title: Title
+      title: Data module
+      url: /data
+    - output: web,pdf
+      title: Some example
       url: /example1
     output: web
     title: testnote

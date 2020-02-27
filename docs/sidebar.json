@@ -2,6 +2,7 @@
   "testnote": {
     "Overview": "/",
     "Core module": "/core",
-    "Title": "/example1"
+    "Data module": "/data",
+    "Some example": "/example1"
   }
 }
