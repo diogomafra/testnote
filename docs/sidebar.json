@@ -1,6 +1,7 @@
 {
   "testnote": {
     "Overview": "/",
-    "module name here": "/core"
+    "Core module": "/core",
+    "Title": "/example1"
   }
 }

@@ -2,12 +2,15 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {"say_something": "00_core.ipynb"}
+index = {"say_something": "00_core.ipynb",
+         "get_months": "01_data.ipynb",
+         "get_names": "01_data.ipynb"}
 
-modules = ["core.py"]
+modules = ["core.py",
+           "data.py"]
 
-doc_url = "https://fastai.github.io/testnote/"
+doc_url = "https://diogomafra.github.io/testnote/"
 
-git_url = "https://github.com/fastai/testnote/tree/master/"
+git_url = "https://github.com/diogomafra/testnote/tree/master/"
 
 def custom_doc_links(name): return None
